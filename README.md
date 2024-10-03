@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HenryG-code
-- 👀 I’m interested in ... girls
+- 👀 I’m interested in ... space
 - 🌱 I’m currently learning ... all things IT
 - 💞️ I’m looking to collaborate on ... coding
 - 📫 How to reach me ... gagianohenry@gmail.com
