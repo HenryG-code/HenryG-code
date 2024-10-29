@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HenryG-code
 - 👀 I’m interested in ... all things IT
 - 🌱 I’m currently learning ... Software engineering
-- 💞️ I’m looking to collaborate on ... Projects
+- 💞️ I’m looking to collaborate on ... Sofware projects
 - 📫 How to reach me ... gagianohenry@gmail.com
 
 <!---
