@@ -2,7 +2,7 @@ Hi there! I'm a passionate Software Developer with a strong interest in collabor
 
 I thrive on learning new technologies, solving complex problems, and building efficient, scalable solutions. My goal is to contribute to innovative projects and connect with like-minded individuals in the tech community.
 
-Let's create, collaborate, and grow together! 🚀
+Let's create, collaborate, and grow together! 
 
 
 <!---
