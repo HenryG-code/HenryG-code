@@ -2,7 +2,7 @@
 
 I'm a software developer and web developer with a strong interest in building practical, user-focused digital products. I enjoy working across the full development stack, from clean front-end interfaces to back-end logic, databases, integrations, and deployment.
 
-My work combines software development, web design, UI/UX, SEO, and digital marketing. I like building projects that do more than look good — they need to perform well, solve real problems, and create measurable value.
+My work combines software development, web design, UI/UX, SEO, and digital marketing. I like building projects that do more than look good, they need to perform well, solve real problems, and create measurable value.
 
 ## What I Do
 
