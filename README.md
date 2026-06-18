@@ -1,148 +1,173 @@
-# Hi, I'm Henry Oosthuizen 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:7C3AED&height=190&section=header&text=Hi,%20I'm%20Henry&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20Apps%20%7C%20AI%20Tools%20%7C%20Digital%20Systems&descSize=17&descAlignY=58" alt="Header" />
+</p>
 
-I'm a software developer and web developer focused on building practical, user-focused digital products. I enjoy working across the full stack: clean interfaces, back-end logic, databases, integrations, deployment, performance, and real-world business value.
-
-My work combines software development, web design, UI/UX, SEO, analytics, digital marketing, and AI-assisted development. I like building projects that do more than look good — they need to solve real problems, perform well, and be maintainable.
-
-## What I Do
-
-- Build responsive websites, landing pages, and full-stack web applications
-- Develop mobile app prototypes with React Native and Expo
-- Create WordPress, WooCommerce, Shopify, and custom business websites
-- Work with authentication, databases, dashboards, CRUD workflows, and integrations
-- Improve website performance, SEO, analytics, and conversion flow
-- Use AI-assisted tools to move faster while still understanding and refining the code
-- Experiment with local-first AI, automation, Docker-based workflows, and personal knowledge systems
-
-## Tech Stack
-
-**Languages:**  
-JavaScript, TypeScript, Python, C#, Java, PHP, SQL, HTML, CSS
-
-**Frontend & Mobile:**  
-React, Next.js, React Native, Expo, Astro, Tailwind CSS, Bootstrap
-
-**Backend & Databases:**  
-Node.js, ASP.NET Core, Supabase, PostgreSQL, MySQL, MongoDB
-
-**CMS & E-commerce:**  
-WordPress, WooCommerce, Shopify, Liquid
-
-**Tools & Platforms:**  
-GitHub, Docker, Visual Studio, VS Code, IntelliJ IDEA, NetBeans, Android Studio, Vercel, Xneelo, cPanel
-
-**Marketing & Web Performance:**  
-SEO, Google Analytics, Google Ads tracking, conversion-focused landing pages, Lighthouse audits, website speed optimisation
-
-## Stack I Am Enjoying Right Now
-
-I am especially enjoying **Astro + TypeScript + Tailwind CSS** for fast, modern, static marketing websites. I like this stack because it keeps sites lightweight, clean, easy to deploy, and performance-focused while still giving me a strong component-based development workflow.
-
-## Featured Projects
-
-### Weblytics
-
-A performance-focused marketing site for my web and digital services brand. Built with Astro, TypeScript, Tailwind CSS, and GSAP, with a fully static output designed for shared hosting deployment.
-
-**Tech:** Astro, TypeScript, Tailwind CSS, GSAP, Xneelo deployment  
-**Repository:** [HenryG-code/weblytics-project](https://github.com/HenryG-code/weblytics-project)
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-0F172A?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/Astro%20%2B%20Tailwind-2563EB?style=for-the-badge&logo=astro&logoColor=white" alt="Astro and Tailwind" />
+  <img src="https://img.shields.io/badge/AI--Assisted%20Builder-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assisted Builder" />
+  <img src="https://img.shields.io/badge/South%20Africa-16A34A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="South Africa" />
+</p>
 
 ---
 
-### LiftLog / MyFitnessApp
+## 👋 About Me
 
-A full-stack fitness tracker that helps users track workouts, weight, habits, meals, groceries, recipes, and suggested training plans in one dashboard. It includes authentication, protected routes, Supabase-backed user data, charts, CRUD workflows, and responsive app navigation.
+I'm a software developer focused on building practical digital products that solve real business problems. I work across websites, full-stack apps, dashboards, mobile prototypes, e-commerce systems, automation, analytics, and AI-assisted development.
 
-**Tech:** Next.js App Router, TypeScript, Tailwind CSS, Supabase Auth, Supabase PostgreSQL, Row Level Security, Recharts, Vercel  
-**Repository:** [HenryG-code/MyFitnessApp](https://github.com/HenryG-code/MyFitnessApp)  
-**Live Demo:** [fitness.weblytics.co.za](https://fitness.weblytics.co.za)
+I like clean interfaces, fast loading pages, solid back-end logic, useful databases, and products that are easy to maintain after launch.
 
 ---
 
-### Voxium Invaders
+## 🧭 What I Build
 
-A mobile arcade space shooter built with React Native, Expo, and TypeScript. The game includes player movement, boost control, shooting, enemy spawning, asteroid pressure, boss logic, collision handling, scoring, shields, music, sound effects, and a retro sci-fi presentation.
-
-**Tech:** React Native, Expo, TypeScript, Expo Router, Expo Audio, Expo Image  
-**Repository:** [HenryG-code/Voxium-Invaders-Game](https://github.com/HenryG-code/Voxium-Invaders-Game)
-
----
-
-### AI-Assistant / Local AI Home Stack
-
-A local-first personal AI setup designed around private memory, local models, and controlled agent workflows. The project combines GBrain for long-term memory, Ollama/Qwen for local reasoning, and OpenClaw/Docker as the future action layer, without relying on paid cloud model providers or exposed private services.
-
-**Tech:** GBrain, Ollama, Qwen, Docker, OpenClaw, local memory workflows  
-**Repository:** [HenryG-code/AI-Assistant](https://github.com/HenryG-code/AI-Assistant)
-
----
-
-### Guide2Cars
-
-A business website project for a vehicle-buying and vehicle-selling service. The site includes a branded front-end, service sections, video/social embeds, gallery content, and business information.
-
-**Tech:** HTML, CSS, JavaScript, front-end web design  
-**Repository:** [HenryG-code/guide2cars](https://github.com/HenryG-code/guide2cars)
-
----
-
-### N&M / Neil Website
-
-A business website project connected to `nmdb.co.za`, representing practical client-style web work and business-facing website delivery.
-
-**Tech:** HTML, CSS, JavaScript, business website development  
-**Repository:** [HenryG-code/Neil-Website](https://github.com/HenryG-code/Neil-Website)
-
-## Earlier / Foundation Projects
-
-### RobotArm
-
-A university team project focused on a robot arm object-sorting system. It explored object detection, automation, hardware/software integration, and real-world use cases such as manufacturing, logistics, and recycling.
-
-**Tech:** Python, Flask, object detection, Raspberry Pi Pico, hardware control  
-**Repository:** [HenryG-code/RobotArm](https://github.com/HenryG-code/RobotArm)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Web & Business Systems</h3>
+      <p>Responsive websites, landing pages, WordPress/WooCommerce sites, Shopify-related workflows, lead forms, dashboards, and business tools.</p>
+    </td>
+    <td width="50%">
+      <h3>📱 Apps & Product Prototypes</h3>
+      <p>Full-stack web apps, mobile prototypes, fitness trackers, game projects, CRUD systems, authenticated dashboards, and user-specific data flows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI & Automation</h3>
+      <p>Local-first AI experiments, personal knowledge systems, GBrain-style memory, Docker workflows, AI-assisted coding, and controlled agent setups.</p>
+    </td>
+    <td width="50%">
+      <h3>📈 Marketing & Performance</h3>
+      <p>SEO, analytics, Google Ads tracking, conversion-focused layouts, performance optimisation, Lighthouse improvements, and practical digital strategy.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Software Engineering Project
+## 🧰 Tech Stack
 
-A third-year software engineering project for Apex Care Solutions, covering the full SDLC from planning and requirements through implementation, UX, testing, and client/stakeholder documentation.
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
-**Repository:** [HenryG-code/Software-Engineering-Project](https://github.com/HenryG-code/Software-Engineering-Project)
+**Languages:** TypeScript, JavaScript, Python, C#, Java, PHP, SQL, HTML, CSS  
+**Frontend:** React, Next.js, Astro, Tailwind CSS, Bootstrap  
+**Mobile:** React Native, Expo  
+**Backend & Data:** Node.js, ASP.NET Core, Supabase, PostgreSQL, MySQL, MongoDB  
+**CMS & Commerce:** WordPress, WooCommerce, Shopify, Liquid  
+**Tools:** GitHub, Docker, VS Code, Visual Studio, Android Studio, Vercel, Xneelo, cPanel  
 
 ---
 
-### SwingGUI
+## ⚡ Stack I Am Enjoying Right Now
 
-A Java-focused project covering object-oriented programming, GUI development, CRUD operations, desktop applications, and database-backed web applications.
+<p align="center">
+  <img src="https://img.shields.io/badge/Astro-0F172A?style=for-the-badge&logo=astro&logoColor=FF5D01" />
+  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-**Tech:** Java, Swing, JavaDB, PostgreSQL, Tomcat, GlassFish  
-**Repository:** [HenryG-code/SwingGUI](https://github.com/HenryG-code/SwingGUI)
+I am especially enjoying **Astro + TypeScript + Tailwind CSS** for fast, modern, static marketing websites. It gives me a clean component workflow, strong performance, simple deployment, and enough flexibility to build polished business websites without unnecessary complexity.
 
-## Other Learning & Template Repositories
+---
 
-Some repositories are used for learning, templates, and experimentation, including GitHub Skills exercises, a Next.js Commerce starter, and a Cloudinary image gallery starter. These support my learning path, but my main original portfolio work is represented by the projects listed above.
+## 🚀 Featured Work
 
-## Current Focus
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Weblytics</h3>
+      <p>A modern marketing site for my web and digital services brand. Built around speed, clean sections, strong visual presentation, and static deployment.</p>
+      <p><strong>Stack:</strong> Astro, TypeScript, Tailwind CSS, GSAP, Xneelo</p>
+    </td>
+    <td width="50%">
+      <h3>💪 LiftLog / MyFitnessApp</h3>
+      <p>A full-stack fitness tracker for workouts, weight, habits, meals, groceries, recipes, training plans, dashboards, charts, and authenticated user data.</p>
+      <p><strong>Stack:</strong> Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Recharts, Vercel</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🚀 Voxium Invaders</h3>
+      <p>A mobile arcade space shooter with player movement, boost control, bullets, enemies, asteroids, boss fights, scoring, shields, sound effects, and a retro sci-fi feel.</p>
+      <p><strong>Stack:</strong> React Native, Expo, TypeScript, Expo Router, Expo Audio</p>
+    </td>
+    <td width="50%">
+      <h3>🧠 AI-Assistant / Local AI Stack</h3>
+      <p>A local-first AI setup using private memory, local models, Docker workflows, and controlled agent architecture for personal knowledge and automation experiments.</p>
+      <p><strong>Stack:</strong> GBrain, Ollama, Qwen, Docker, OpenClaw</p>
+    </td>
+  </tr>
+</table>
 
-I'm currently focused on building a stronger portfolio of practical, real-world applications. My main focus areas are:
+---
 
-- Full-stack web apps with authentication, dashboards, databases, and user-specific data
-- Fast static business websites using Astro, TypeScript, and Tailwind CSS
-- Mobile app development with React Native and Expo
-- Business tools, client portals, SEO tools, and lead-management systems
-- Local-first AI workflows, personal knowledge systems, and Docker-based automation
+## 🧩 Other Practical Projects
 
-## About Me
+| Project Area | Brief Summary |
+|---|---|
+| **Business Websites** | Client-style websites for service businesses, including vehicle services, drilling/blasting, marketing pages, contact flows, and branded layouts. |
+| **Lead & Dashboard Systems** | Database-backed tools for collecting leads, showing business data, and helping teams track real enquiries from real websites. |
+| **University / Foundation Work** | Java GUI apps, software engineering documentation, CRUD workflows, database projects, and robotics/object-sorting concepts. |
+| **Learning Repositories** | GitHub Skills, starter templates, and experiments used to strengthen workflow, deployment, and framework knowledge. |
 
-- Software developer with a full-stack mindset
-- Strong interest in front-end development, UI/UX, and clean user experiences
-- Comfortable with business websites, marketing-driven platforms, and custom applications
-- Interested in performance, maintainability, automation, and practical product value
-- Continuously improving through real projects, experimentation, and problem-solving
+---
 
-## Let's Connect
+## 🎯 Current Focus
 
-I'm open to collaboration, freelance opportunities, and software development projects.
+- Building stronger full-stack portfolio apps with real user value
+- Creating fast static business websites with **Astro + Tailwind CSS**
+- Improving mobile development through **React Native + Expo**
+- Building dashboards, lead systems, client tools, and business automation
+- Exploring local-first AI, GBrain memory, Docker workflows, and practical agents
+- Improving performance, SEO, analytics, and conversion flow on real websites
 
-Let's build something useful, professional, and impactful.
+---
+
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HenryG-code&show_icons=true&theme=tokyonight&hide_border=true" alt="Henry's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryG-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://github.com/HenryG-code">
+    <img src="https://img.shields.io/badge/GitHub-HenryG--code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://fitness.weblytics.co.za">
+    <img src="https://img.shields.io/badge/Live%20Project-LiftLog-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Building useful, professional, performance-focused digital products.</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer" alt="Footer" />
+</p>
