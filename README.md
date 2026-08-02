@@ -144,11 +144,33 @@ I am especially enjoying **Astro + TypeScript + Tailwind CSS** for fast, modern,
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenryG-code&show_icons=true&theme=tokyonight&hide_border=true" alt="Henry's GitHub stats" />
+  <a href="https://github.com/HenryG-code?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse-Public%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Browse Henry's public repositories" />
+  </a>
+  <a href="https://github.com/HenryG-code/MyFitnessApp">
+    <img src="https://img.shields.io/badge/Flagship-MyFitnessApp-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Open MyFitnessApp repository" />
+  </a>
 </p>
 
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/HenryG-code/MyFitnessApp"><strong>MyFitnessApp</strong></a><br />
+      Full-stack web and mobile fitness platform
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/HenryG-code/Solar-system"><strong>Universe Atlas</strong></a><br />
+      Interactive NASA API web experience
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/HenryG-code/Voxium-Invaders-Game"><strong>Voxium Invaders</strong></a><br />
+      React Native and Expo game prototype
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryG-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/HenryG-code?tab=repositories">View all public repositories</a>
 </p>
 
 ---
