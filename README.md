@@ -14,7 +14,21 @@ I'm **Henry**, a software developer based in **Pretoria, South Africa**. I build
 
 My work spans interfaces, back-end logic, databases, and deployment. I care about clear user journeys, fast pages, and code that stays maintainable as a product grows.
 
-## Selected projects
+## Websites & business systems
+
+Alongside my public repositories, my [portfolio](https://henrygo.co.za/#section-portfolio) showcases business websites, commerce experiences, dashboards, and integrations.
+
+| Selected work | Focus |
+| :--- | :--- |
+| [SINO Plant](https://sinoplant.co.za/) | Catalog-driven website with product discovery, branch visibility, and lead capture. |
+| [TentPro](https://tentpro.co.za/) | Shopify storefront focused on product discovery and mobile shopping. |
+| [Guide2Cars](https://guide2cars.co.za/) | Automotive consultancy website covering buying, selling, and vehicle evaluation services. |
+
+My [business application work](https://henrygo.co.za/#work-apps) includes a leads dashboard and an ERP-to-Shopify integration. The portfolio also covers a CRM and a branch visitor-counting system **in development**.
+
+[Explore the full portfolio →](https://henrygo.co.za/#section-portfolio)
+
+## Selected GitHub projects
 
 ### 01 / [LogFit](https://github.com/HenryG-code/MyFitnessApp)
 
