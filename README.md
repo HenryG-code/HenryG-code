@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/clean-profile-header.svg" width="1200" alt="Henry Gagiano — Full-Stack Software Developer. Business systems, APIs, integrations, and e-commerce." />
+  <img src="./assets/editorial-motion-header.svg" width="1200" alt="Henry — Full-Stack Software Developer. Thoughtful design. Practical software." />
 </p>
 
 <p align="center">
