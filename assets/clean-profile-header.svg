@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Henry Gagiano — Full-Stack Software Developer</title>
+  <desc id="desc">A clean white profile header with charcoal typography, generous spacing, and a quiet grey divider. Business systems, APIs, integrations, and e-commerce. Pretoria, South Africa.</desc>
+  <defs>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; }
+      .intro { animation: enter 1s ease-out both; }
+      .focus { animation: enter 1s .15s ease-out both; }
+      @keyframes enter { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+      @media (prefers-reduced-motion: reduce) { .intro, .focus { animation: none; } }
+    </style>
+  </defs>
+  <rect x=".5" y=".5" width="1199" height="329" rx="8" fill="#fafaf9" stroke="#e3e3e0"/>
+  <text x="52" y="51" fill="#71716c" font-size="13" letter-spacing="2">SOFTWARE DEVELOPMENT</text>
+  <text x="1148" y="51" fill="#71716c" font-size="13" text-anchor="end">Pretoria, South Africa</text>
+  <g class="intro">
+    <text x="50" y="134" fill="#252525" font-size="55" font-weight="600" letter-spacing="-1.5">Henry Gagiano</text>
+    <text x="52" y="181" fill="#454542" font-size="25">Full-Stack Software Developer</text>
+    <text x="52" y="224" fill="#6a6a65" font-size="18">Practical software for everyday business operations.</text>
+  </g>
+  <path d="M824 101v128" stroke="#deded9"/>
+  <g class="focus">
+    <text x="860" y="115" fill="#85857f" font-size="12" letter-spacing="1.8">FOCUS</text>
+    <text x="860" y="152" fill="#454542" font-size="20">Business systems</text>
+    <text x="860" y="184" fill="#454542" font-size="20">APIs &amp; integrations</text>
+    <text x="860" y="216" fill="#454542" font-size="20">E-commerce</text>
+  </g>
+  <path d="M52 270h1096" stroke="#deded9"/>
+  <text x="52" y="304" fill="#71716c" font-size="14">Websites, applications, and the data behind them.</text>
+  <text x="1148" y="304" text-anchor="end" fill="#454542" font-size="14">henrygo.co.za</text>
+</svg>
