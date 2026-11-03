@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="1200" alt="Henry — Full-Stack Software Developer. Thoughtful design. Practical software." />
+  <img src="./assets/editorial-header.svg" width="1200" alt="Henry — Full-Stack Software Developer. Thoughtful design. Practical software." />
 </p>
 
 <p align="center">
