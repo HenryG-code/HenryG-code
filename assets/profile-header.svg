@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Henry Gagiano — Full-Stack Software Developer</title>
+  <desc id="desc">Building useful digital products. Web applications, business systems, and thoughtful interfaces. Abstract connected modules move gently on a dark navy background.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1826"/><stop offset="1" stop-color="#102d37"/></linearGradient>
+    <linearGradient id="edge"><stop stop-color="#6ee7cc"/><stop offset="1" stop-color="#65a9e8"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#a8c8d6" opacity=".12"/></pattern>
+    <style>
+      text { font-family: 'Segoe UI', Arial, sans-serif; }
+      .flow { stroke-dasharray: 4 14; animation: flow 16s linear infinite; }
+      .orbit { transform-origin: 992px 200px; animation: orbit 48s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -180; } }
+      @keyframes orbit { to { transform: rotate(360deg); } }
+      @media (prefers-reduced-motion: reduce) { .flow, .orbit { animation: none; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="418" rx="20" fill="url(#bg)" stroke="#294452"/>
+  <rect x="720" y="24" width="450" height="370" fill="url(#grid)"/>
+  <path d="M56 61h36" stroke="#6ee7cc" stroke-width="3"/>
+  <text x="107" y="66" fill="#a5c4ce" font-size="14" letter-spacing="3">HENRYG-CODE / SOUTH AFRICA</text>
+  <text x="54" y="148" fill="#f2f7fa" font-size="62" font-weight="700" letter-spacing="-2">Henry Gagiano<tspan fill="#6ee7cc">.</tspan></text>
+  <text x="57" y="195" fill="#6ee7cc" font-size="25" font-weight="500">Full-Stack Software Developer</text>
+  <text x="57" y="251" fill="#d2e1e7" font-size="23">Building useful digital products.</text>
+  <text x="57" y="286" fill="#9cb6c3" font-size="18">Web apps. Business systems. Thoughtful interfaces.</text>
+  <path d="M57 329h645" stroke="#2e4957"/>
+  <text x="57" y="368" fill="#adc5d0" font-size="14" letter-spacing="2">DESIGN</text><path d="M137 363h36m-7-4 7 4-7 4" fill="none" stroke="#6ee7cc"/>
+  <text x="193" y="368" fill="#adc5d0" font-size="14" letter-spacing="2">BUILD</text><path d="M265 363h36m-7-4 7 4-7 4" fill="none" stroke="#6ee7cc"/>
+  <text x="321" y="368" fill="#adc5d0" font-size="14" letter-spacing="2">REFINE</text>
+  <g fill="none" stroke="#345764">
+    <circle cx="992" cy="200" r="133"/>
+    <circle cx="992" cy="200" r="96" stroke-dasharray="2 9"/>
+    <path d="M798 123h96l98 77 97 84h67M805 300h96l91-100 91-98h63"/>
+  </g>
+  <g fill="none" stroke="url(#edge)" stroke-width="2" class="flow"><path d="M798 123h96l98 77 97 84h67M805 300h96l91-100 91-98h63"/></g>
+  <g class="orbit"><circle cx="992" cy="67" r="5" fill="#6ee7cc"/><circle cx="992" cy="333" r="4" fill="#f2b58b"/></g>
+  <rect x="931" y="139" width="122" height="122" rx="25" fill="#132f3b" stroke="url(#edge)" stroke-width="2"/>
+  <path d="m977 179-22 21 22 21m30-42 22 21-22 21m-9-49-13 56" stroke="#e3f6f2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <g fill="#102732" stroke="#436471">
+    <rect x="771" y="96" width="54" height="54" rx="12"/>
+    <rect x="778" y="273" width="54" height="54" rx="12"/>
+    <rect x="1119" y="75" width="54" height="54" rx="12"/>
+    <rect x="1129" y="257" width="54" height="54" rx="12"/>
+  </g>
+  <g fill="none" stroke="#a6c7d0" stroke-width="2"><path d="M785 112h26v22h-26zm0 6h26M792 288h26v24h-26zm0 8h26m-26 8h26m-13-16v24"/><path d="m1133 103 8 8 17-18M1142 284h27m-20-8-7 8 7 8m13-16 7 8-7 8"/></g>
+  <text x="992" y="382" text-anchor="middle" fill="#8cabb8" font-size="12" letter-spacing="3">IDEAS INTO WORKING SOFTWARE</text>
+</svg>
