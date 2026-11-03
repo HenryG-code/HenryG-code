@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/editorial-motion-header.svg" width="1200" alt="Henry — Full-Stack Software Developer. Thoughtful design. Practical software." />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/editorial-motion-mobile.svg" />
+    <img src="./assets/editorial-motion-header.svg" width="1200" alt="Henry — Full-Stack Software Developer. Thoughtful design. Practical software." />
+  </picture>
 </p>
 
 <p align="center">
