@@ -65,7 +65,7 @@ Smaller experiments: [Universe Atlas](https://github.com/HenryG-code/Solar-syste
 | **Operating systems** | Windows, Linux (Ubuntu, Linux Mint) |
 | **Learning now** | Go, object storage, system architecture |
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark.svg" />
     <img src="./assets/tech-stack-light.svg" width="560" alt="Icons for TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS, PHP, WordPress, PostgreSQL, MySQL, Supabase, C#, .NET, Node.js, Python, Java, Astro, Go, Git, GitHub, GitHub Actions, Docker, Kubernetes, Vercel, Linux, Ubuntu, Linux Mint and Windows" />
