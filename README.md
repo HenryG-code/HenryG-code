@@ -11,66 +11,65 @@
   <a href="https://github.com/HenryG-code?tab=repositories">Repositories</a>
 </p>
 
-## Software with a practical purpose
+## Full-stack developer building business systems
 
-I'm **Henry**, a software developer based in **Pretoria, South Africa**. I build web applications, business websites, dashboards, and tools that turn everyday workflows into useful software.
+I'm **Henry Oosthuizen**, a full-stack software developer in **Pretoria, South Africa**.
 
-My work spans interfaces, back-end logic, databases, and deployment. I care about clear user journeys, fast pages, and code that stays maintainable as a product grows.
+At work I build the systems a multi-brand group runs on: a CRM, sales reporting, an ERP-to-Shopify integration and 12 company websites. In my own time I build open-source projects to go deeper into backend and systems design.
 
-## Websites & business systems
+## Commercial work
 
-Alongside my public repositories, my [portfolio](https://henrygo.co.za/#section-portfolio) showcases business websites, commerce experiences, dashboards, and integrations.
+The source for this work is private. Case studies are on my [portfolio](https://henrygo.co.za/#section-portfolio).
 
-| Selected work | Focus |
+| System | What it does | Built with |
+| :--- | :--- | :--- |
+| **CRM and lead management** (in development) | Brings website lead capture, the 3CX phone system and email into one application for follow-up and customer management. | 3CX, Microsoft Graph, REST APIs |
+| **Leads and sales dashboard** | Reporting on lead sources and sales activity, used by directors and the Head of Marketing. Mapped sales data informs branch planning. | TypeScript |
+| **TentPro Sync App** (in production) | Connects an ERP's stock and accounting functions with Shopify: inventory and price sync, automated product uploads, invoice printing. | Shopify, ERP integration |
+| **Multi-brand websites** | 12 company websites, including two full e-commerce sites, such as [SINO Plant](https://sinoplant.co.za/) and [TentPro](https://tentpro.co.za/). | PHP, Shopify Liquid, WordPress |
+
+## Open-source projects
+
+### [PerformanceHub](https://github.com/HenryG-code/website-performance-hub)
+
+A website-health dashboard built on live Google PageSpeed Insights data: performance, SEO, accessibility and best-practice scores, prioritised findings and reports. Workspaces are isolated with PostgreSQL Row Level Security, and audit requests are protected against SSRF and rate-limited.
+
+**Next.js · TypeScript · Tailwind CSS · Supabase · PostgreSQL**  
+[Code](https://github.com/HenryG-code/website-performance-hub) · [Live app](https://performancehub.weblytics.co.za)
+
+### [LogFit](https://github.com/HenryG-code/MyFitnessApp)
+
+A full-stack fitness tracker I use myself: authenticated accounts, workout and weight tracking, habits, meal planning and an Expo mobile companion.
+
+**Next.js · TypeScript · Tailwind CSS · Supabase · PostgreSQL · React Native · Expo**  
+[Code](https://github.com/HenryG-code/MyFitnessApp) · [Live app](https://fitness.weblytics.co.za)
+
+### [PocketCloud](https://github.com/HenryG-code/Pocketcloud) — in progress
+
+A self-hosted cloud drive, and my project for learning Go and storage design. The repository currently holds the architecture, decision records, threat model and the storage feasibility trials in [`docs/benchmarks`](https://github.com/HenryG-code/Pocketcloud/tree/main/docs/benchmarks). The application itself is being built.
+
+**Go · PostgreSQL · S3-compatible object storage**  
+[Code](https://github.com/HenryG-code/Pocketcloud) · [Architecture](https://github.com/HenryG-code/Pocketcloud/blob/main/docs/architecture.md)
+
+Smaller experiments: [Universe Atlas](https://github.com/HenryG-code/Solar-system) (vanilla JavaScript and NASA APIs) and [Voxium Invaders](https://github.com/HenryG-code/Voxium-Invaders-Game) (React Native game prototype).
+
+## Tech stack
+
+| | Technologies |
 | :--- | :--- |
-| [SINO Plant](https://sinoplant.co.za/) | Catalog-driven website with product discovery, branch visibility, and lead capture. |
-| [TentPro](https://tentpro.co.za/) | Shopify storefront focused on product discovery and mobile shopping. |
-| [Guide2Cars](https://guide2cars.co.za/) | Automotive consultancy website covering buying, selling, and vehicle evaluation services. |
-
-My [business application work](https://henrygo.co.za/#work-apps) includes a leads dashboard and an ERP-to-Shopify integration. The portfolio also covers a CRM and a branch visitor-counting system **in development**.
-
-[Explore the full portfolio →](https://henrygo.co.za/#section-portfolio)
-
-## Selected GitHub projects
-
-### 01 / [LogFit](https://github.com/HenryG-code/MyFitnessApp)
-
-A full-stack fitness portfolio project that brings workout logging, progress, habits, and meal planning into one system. Includes authenticated accounts, user-specific data, and an Expo mobile companion.
-
-**Next.js · TypeScript · Supabase · PostgreSQL · Tailwind CSS**  
-[Explore the code →](https://github.com/HenryG-code/MyFitnessApp) · [Live project →](https://fitness.weblytics.co.za)
-
-### 02 / [Universe Atlas](https://github.com/HenryG-code/Solar-system)
-
-A space exploration interface with animated planetary orbits, NASA imagery, and an Astronomy Picture of the Day spotlight. Built with native web technologies and no framework.
-
-**JavaScript · HTML · CSS · NASA APIs**  
-[Explore the code →](https://github.com/HenryG-code/Solar-system)
-
-### 03 / [Voxium Invaders](https://github.com/HenryG-code/Voxium-Invaders-Game)
-
-A playable mobile arcade prototype with real-time combat, enemy spawning, boss encounters, audio, and touch controls. An exploration of game loops and interactive mobile experiences.
-
-**React Native · Expo · TypeScript**  
-[Explore the code →](https://github.com/HenryG-code/Voxium-Invaders-Game)
-
-## Tools I work with
-
-| Area | Technologies |
-| :--- | :--- |
-| Web interfaces | TypeScript, JavaScript, React, Next.js, Astro, Tailwind CSS |
-| Back end & data | Node.js, ASP.NET Core, Supabase, PostgreSQL, MySQL |
-| Mobile | React Native, Expo |
-| Content & commerce | WordPress, WooCommerce, Shopify, Liquid |
-| Delivery | Git, GitHub, Docker, Vercel, cPanel |
+| **Daily, in production** | TypeScript, JavaScript, React, Next.js, Tailwind CSS, PHP, Shopify Liquid, WordPress |
+| **Data** | PostgreSQL, MySQL, SQL, Supabase, Neon |
+| **Integrations** | REST APIs, Microsoft Graph, 3CX, Shopify |
+| **Also worked with** | C#, ASP.NET Core, Node.js, Python, Java, Astro, React Native, Expo |
+| **Delivery** | Git, GitHub Actions, Docker, Vercel, xneelo, cPanel |
+| **Learning now** | Go, object storage, system architecture |
 
 ## What I'm focused on
 
-- Building full-stack applications with useful dashboards and clear data flows.
-- Creating fast business websites with **Astro, TypeScript, and Tailwind CSS**.
-- Exploring mobile experiences with **React Native and Expo**.
-- Experimenting with local AI and automation, alongside performance, SEO, and analytics work.
+- Finishing PocketCloud's first usable release, with every claim backed by a recorded test.
+- Concurrency and distributed-system design in C# and ASP.NET Core.
+- Building AI features responsibly: validated output, evaluation sets and measured cost.
 
 ---
 
-**Have a project in mind?** Find my work on my [portfolio](https://henrygo.co.za/) or connect on [LinkedIn](https://www.linkedin.com/in/henry-gagiano/).
+Open to full-stack and backend roles. Reach me through my [portfolio](https://henrygo.co.za/) or [LinkedIn](https://www.linkedin.com/in/henry-gagiano/).
